@@ -12,7 +12,7 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
-#include "helloWorld.h"
+#include "helloworld.h"
 
 void LibHelloWorld()
 {

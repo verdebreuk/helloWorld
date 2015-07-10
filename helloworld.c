@@ -6,11 +6,11 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "helloWorld.h"
+#include "helloworld.h"
 
 int main(int argc, char *argv[])
 {
-  prntf("Hello Yocto World...\n");
+  printf("Hello Yocto World...\n");
 
   LibHelloWorld();
 
